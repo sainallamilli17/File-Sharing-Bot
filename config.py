@@ -3,15 +3,15 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 BOT_TOKEN = "7543846429:AAF5GDFBCDsM_tghg6g3MXnZW_Ol5Xx5Occ"
-API_ID = 979826
+API_ID = "979826"
 API_HASH = "238183386c30590d073b457166ba260d"
 
-OWNER_ID = 1074804932
+OWNER_ID = "1074804932"
 DB_URL = "mongodb+srv://ygovcu:fY1f9Wovol3NqhUX@cluster0.1mdno.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = "madflixbotz"
 
-CHANNEL_ID = -1001847420676
-FORCE_SUB_CHANNEL = -1002358532189
+CHANNEL_ID = "-1001847420676"
+FORCE_SUB_CHANNEL = "-1002358532189"
 FORCE_SUB_CHANNEL2 = 0
 FORCE_SUB_CHANNEL3 = 0
 FORCE_SUB_CHANNEL4 = 0
@@ -28,8 +28,8 @@ try:
 except ValueError:
     raise Exception("Your Admins list does not contain valid integers.")
 
-CUSTOM_CAPTION = None
-PROTECT_CONTENT = False
+CUSTOM_CAPTION = {filename}
+PROTECT_CONTENT = True
 DISABLE_CHANNEL_BUTTON = True
 
 BOT_STATS_TEXT = "<b>BOT UPTIME :</b>\n{uptime}"

@@ -28,7 +28,7 @@ try:
 except ValueError:
     raise Exception("Your Admins list does not contain valid integers.")
 
-CUSTOM_CAPTION = {filename}
+CUSTOM_CAPTION = "{filename}"
 PROTECT_CONTENT = True
 DISABLE_CHANNEL_BUTTON = True
 

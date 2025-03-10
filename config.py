@@ -10,8 +10,8 @@ OWNER_ID = "1074804932"
 DB_URL = "mongodb+srv://ygovcu:fY1f9Wovol3NqhUX@cluster0.1mdno.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = "madflixbotz"
 
-CHANNEL_ID = "-1001847420676"
-FORCE_SUB_CHANNEL = "-1002180359368"
+CHANNEL_ID = "-1002358588449"
+FORCE_SUB_CHANNEL = "-1002358532189"
 FORCE_SUB_CHANNEL2 = 0
 FORCE_SUB_CHANNEL3 = 0
 FORCE_SUB_CHANNEL4 = 0

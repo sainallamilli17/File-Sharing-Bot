@@ -14,7 +14,7 @@ def str_to_bool(value):
     return str(value).lower() in ("true", "1", "yes")
 
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7678412226:AAHAAGV5S1zOJoH8ZPZ8gElyPJuf1nBtgZ4")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7543846429:AAF5GDFBCDsM_tghg6g3MXnZW_Ol5Xx5Occ")
 API_ID = int(os.environ.get("API_ID", "16978078"))
 API_HASH = os.environ.get("API_HASH", "91ccaf748f031b656bbf64ff47f990e3")
 

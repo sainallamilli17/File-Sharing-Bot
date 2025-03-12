@@ -61,9 +61,9 @@ BOT_STATS_TEXT = "<b>BOT UPTIME :</b>\n{uptime}"
 
 USER_REPLY_TEXT = "❌Don't Send Me Messages Directly I'm Only File Share Bot !"
 
-START_MSG = os.environ.get("START_MESSAGE", "Hᴇʟʟᴏ {ᴍᴇɴᴛɪᴏɴ},\ɴ\ɴI Cᴀɴ Sᴛᴏʀᴇ Pʀɪᴠᴀᴛᴇ Fɪʟᴇs Iɴ Sᴘᴇᴄɪғɪᴇᴅ Cʜᴀɴɴᴇʟ Aɴᴅ Oᴛʜᴇʀ Usᴇʀs Cᴀɴ Aᴄᴄᴇss.")
+START_MSG = os.environ.get("START_MESSAGE", "Hᴇʟʟᴏ {mention},\ɴ\ɴI Cᴀɴ Sᴛᴏʀᴇ Pʀɪᴠᴀᴛᴇ Fɪʟᴇs Iɴ Sᴘᴇᴄɪғɪᴇᴅ Cʜᴀɴɴᴇʟ Aɴᴅ Oᴛʜᴇʀ Usᴇʀs Cᴀɴ Aᴄᴄᴇss.")
 
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hᴇʟʟᴏ {ᴍᴇɴᴛɪᴏɴ},\ɴ\ɴ<b>Yᴏᴜ Nᴇᴇᴅ Tᴏ Jᴏɪɴ Iɴ Mʏ Cʜᴀɴɴᴇʟ/Gʀᴏᴜᴘ Tᴏ Usᴇ Mᴇ\ɴ\ɴKɪɴᴅʟʏ Pʟᴇᴀsᴇ Jᴏɪɴ ᴀʟʟ CʜᴀɴɴᴇʟS</b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hᴇʟʟᴏ {mention},\ɴ\ɴ<b>Yᴏᴜ Nᴇᴇᴅ Tᴏ Jᴏɪɴ Iɴ Mʏ Cʜᴀɴɴᴇʟ/Gʀᴏᴜᴘ Tᴏ Usᴇ Mᴇ\ɴ\ɴKɪɴᴅʟʏ Pʟᴇᴀsᴇ Jᴏɪɴ ᴀʟʟ CʜᴀɴɴᴇʟS</b>")
 
 
 
